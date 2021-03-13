@@ -20,10 +20,6 @@ This project is licensed under:
 MIT
 ### Contributing:
 Nothing
-### Tests:
-In order to test open the console and run the following:
-``````
-### Questions:
-If you have any questions contact me on [GitHub](https://github.com/rroman6292) or contact 
- at 
-![picture](https://github.com/rroman6292.png?size=80)
+
+
+For a video walkthrough please click [here.](https://youtu.be/-0TW1_DMPlE)
